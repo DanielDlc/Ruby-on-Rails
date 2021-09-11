@@ -2,7 +2,7 @@
 
 dia = 'Sabado'
 
-if dia != 'Sabado'
+if dia == 'Domingo'
     estudar = 'Ruby'
 else
     estudar = 'Rails'
