@@ -22,4 +22,11 @@ nome = "Daniel"
 "Olá, #{name}"
 ```
 
+métodos existentes
+
+```bash
+nome = "Daniel"
+nome.methods
+```
+
 em andamento...
