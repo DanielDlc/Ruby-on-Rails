@@ -1,4 +1,4 @@
-# Perguntar o nome do usuário
+# Declarando variável
 
 # saída padrão
 print 'Digite seu nome: '
