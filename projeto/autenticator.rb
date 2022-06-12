@@ -14,7 +14,6 @@ def auth_user(username, password, list_of_users)
     "Credentials were not correct"
 end
 
-
 puts "Welcome to the authenticator"
 28.times { print"-" }
 puts
