@@ -1,32 +1,25 @@
-# Ruby-on-Rails
+# README
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielDlc/Django/blob/main/LICENSE)
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Sobre o projeto
+Things you may want to cover:
 
-Conteúdo didático para programadores.
+* Ruby and Rails version
+ruby 2.7.6 and rails 6.1.6
 
-## iniciando com na linguagem ruby
+* System dependencies
 
-verificar tipo da variável usando .class:
+* Configuration
 
-```bash
-variavel = 10
-variavel.class
-```
+* Database creation
 
-Interpolação de strings
+* Database initialization
 
-```bash
-nome = "Daniel"
-"Olá, #{name}"
-```
+* How to run the test suite
 
-métodos existentes
+* Services (job queues, cache servers, search engines, etc.)
 
-```bash
-nome = "Daniel"
-nome.methods
-```
+* Deployment instructions
 
-em andamento...
+* ...
